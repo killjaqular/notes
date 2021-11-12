@@ -1,0 +1,19 @@
+These notes pertain to the following Operating System and File Format
+Language:  C
+Compilers: GNU Compiler Collection (gcc), Clang
+
+Table of Contents:
+A. Langauge: C
+    1. Features of Language
+    2. Data type primitives
+    3. 
+
+B. Compiler: GNU Compiler Collection (gcc):
+    1. Compilation steps
+    2. Optimizations
+    3. Code hardening/security
+
+C. Compiler: Clang:
+    1. Compilation steps
+    2. Optimizations
+    3. Code hardening/security

@@ -1,0 +1,18 @@
+These notes pertain to the following Operating System and File Format
+Operating System: GNU Linux (Linux)
+File Format:      Executable Linkable Format (ELF)
+
+Table of Contents:
+A. Operating System: How GNU Linux executes a process/program
+    1. Loader
+    2. Linker
+    3. Setting up memory map
+    4. Global Offset Table
+    5. etc...
+    6. Terminating the process/program when returning from main()
+
+B. File Format: What information is stored in an Executable Linkable Format File
+    1. Anatomy of an ELF File
+        i.   Segments
+        ii.  Sections
+        iii. etc...
