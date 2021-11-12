@@ -1,9 +1,9 @@
-These notes pertain to the C compiled language
-Language:  C
+These notes pertain to the C++ compiled language
+Language:  C++
 Compilers: GNU Compiler Collection (gcc), Clang
 
 Table of Contents:
-A. Langauge: C
+A. Langauge: C++
     1. Features of Language
     2. Data type primitives
     3. etc...
